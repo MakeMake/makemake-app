@@ -2,15 +2,15 @@
   "pages": [
     {
       "name": "index",
-      "path": "/",
       "template": "<div>index</div>",
-      "script": "console.log('helloworld')"
+      "script": "console.log('helloworld')",
+      "style": ""
     },
     {
       "name": "page1",
-      "path": "/page1",
       "template": "<div>page 1</div>",
-      "script": ""
+      "script": "",
+      "style": ""
     }
   ]
 }
